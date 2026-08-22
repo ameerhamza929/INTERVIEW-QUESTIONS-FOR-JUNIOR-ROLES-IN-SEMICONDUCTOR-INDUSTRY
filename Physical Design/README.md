@@ -73,6 +73,18 @@
 - Questions about amplifiers.
 - Questions about amplifier gain.
 - If there are three amplifiers with gains of 10, 15, and 20, what is the overall gain when they are connected in series?
+- Questions about transient response in DSP.
+- Questions about Z-transform.
+- What is the Z-transform?
+- What is the Z-transform of a given signal/function?
+- What is the inverse Z-transform of a given expression?
+- Questions involving calculations using the Z-transform.
+- Questions involving calculations using the inverse Z-transform.
+- Questions involving Fourier series/transforms.
+- Questions about deriving a discrete-time response using Fourier methods.
+- Questions related to ADC.
+- Questions related to DAC.
+- Questions involving calculations related to ADCs and DACs.
 
 # Timing Diagrams
 - Draw and explain a timing diagram.
